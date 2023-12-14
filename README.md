@@ -2,10 +2,6 @@
 
 Customizable glassmorphic card component for your Vue3 projects. It allows you to easily create beautiful and flexible cards with a frosted glass effect and edit their styles to match your design needs.
 
-## Demo
-
-link
-
 ## Features:
 
 - Customize everything: Change background color, border radius, box shadow, blur strength, and border color to match your design.
