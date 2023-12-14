@@ -2,6 +2,10 @@
 
 Customizable glassmorphic card component for your Vue3 projects. It allows you to easily create beautiful and flexible cards with a frosted glass effect and edit their styles to match your design needs.
 
+## Demo
+
+https://jocular-empanada-5f07d9.netlify.app/
+
 ## Features:
 
 - Customize everything: Change background color, border radius, box shadow, blur strength, and border color to match your design.
@@ -36,10 +40,28 @@ Import the glass card component into your Vue project and use it with props to c
 </template>
 
 <script setup>
-import GlassCard from 'vue3-glassmorphic-card';
+import { GlassCard } from 'vue3-glassmorphic-card';
 
 </script>
 ```
+
+## Customization Options
+
+The following props are available for customizing the card:
+
+- backgroundColor: The background color of the card (default: rgba(255, 255, 255, 0.18))
+
+- borderRadius: The border radius of the card (default: 10px)
+
+- boxShadow: The box shadow applied to the card (default: 0 4px 30px rgba(0, 0, 0, 0.1))
+
+- backdropBlur: The blur intensity of the backdrop filter (default: 1.8px)
+
+- borderColor: The color of the card's border (default: rgba(255, 255, 255, 0.18))
+
+- width: The width of the card (default: 20rem)
+
+- padding: The padding of the card (default: 16px) 
 
 ## LICENSE
 
