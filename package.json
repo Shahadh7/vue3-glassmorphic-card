@@ -2,7 +2,7 @@
   "name": "vue3-glassmorphic-card",
   "description": "Customizable glassmorphic card",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/Shahadh7/vue3-glassmorphic-card",
   "bugs": "https://github.com/Shahadh7/vue3-glassmorphic-card/issues",
   "files": [
